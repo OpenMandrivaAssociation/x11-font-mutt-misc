@@ -1,5 +1,5 @@
 Name: x11-font-mutt-misc
-Version: 1.0.2
+Version: 1.0.3
 Release: %mkrel 1
 Summary: Xorg X11 font mutt-misc
 Group: Development/X11
